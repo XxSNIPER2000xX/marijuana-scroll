@@ -1,0 +1,4 @@
+References:
+https://github.com/raysan5/raylib/blob/master/examples/textures/textures_background_scrolling.c
+https://github.com/raysan5/raylib/blob/master/examples/audio/audio_module_playing.c
+https://github.com/raysan5/raylib/blob/master/examples/textures/textures_sprite_button.c
