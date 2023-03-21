@@ -1,3 +1,3 @@
 # 🍁 marijuana-scroll 🍁
 
-![img](/imgs/resources/background.png)
+![img](/resources/background.png)
