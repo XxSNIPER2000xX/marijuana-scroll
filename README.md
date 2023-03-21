@@ -1,2 +1,3 @@
 # 🍁 marijuana-scroll 🍁
-a simple scrolling program
+
+![img](/imgs/resources/background.png)
